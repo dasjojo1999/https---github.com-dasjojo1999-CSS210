@@ -1,6 +1,5 @@
-# Snake
-Snake is a clone of the classic game that we all used to play on our cellphones. You play this game 
-on a simulated terminal, with a textual interface.
+# Cycle
+Cycle is a game where the players try to cut each other off using cycles that leave a trail behind them.
 
 ## Getting Started
 ---
@@ -33,9 +32,7 @@ root                    (project root folder)
 
 ## Authors
 ---
-* TODO: Add your name and email here
-Job Miguel Da Silva (das21002@byui.edu)
-Henry Ohia
-David Ogbaudu
-Karabo Mamabolo
-
+* Ogbaudu David
+* Karabo Mamabolo
+* Henry Ohia
+* Job Miguel
